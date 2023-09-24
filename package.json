@@ -1,6 +1,6 @@
 {
   "name": "rn-reanimated-tri-images",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "A react Native reanimated component that animates in a pattern for 3 images.",
   "main": "index.js",
   "scripts": {

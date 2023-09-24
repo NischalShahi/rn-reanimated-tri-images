@@ -1,18 +1,21 @@
 {
   "name": "rn-reanimated-tri-images",
-  "version": "0.0.3",
+  "version": "0.1.2",
   "description": "A react Native reanimated component that animates in a pattern for 3 images.",
   "main": "index.js",
   "scripts": {
-    "bundle": "npx tsc",
-    "publish": "npm run bundle && npm publish"
+    "bundle": "npx tsc"
   },
   "keywords": [
     "react-native",
     "ios",
     "android"
   ],
-  "author": "iamnischal1219@gmail.com",
+  "repository": "https://github.com/NischalShahi/rn-reanimated-tri-images",
+  "bugs": {
+    "url": "https://github.com/NischalShahi/rn-reanimated-tri-images/issues"
+  },
+  "author": "Nischal <iamnischal1219@gmail.com> (https://github.com/NischalShahi)",
   "license": "MIT",
   "devDependencies": {
     "@types/react": "^18.2.22",
